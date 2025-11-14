@@ -1,0 +1,1 @@
+Desenvolvi uma api rest completa em java com spring boot para gerenciar usuários e seus endereços integrado com o PostgreSQL e criei também endpoints CRUD e implementei relacionamento 1:N entre usuários e endereços.  O projeto foi testado e documentado, pronto para uso em aplicações reais.
